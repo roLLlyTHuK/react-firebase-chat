@@ -1,3 +1,1 @@
-#Не забудь поставить звезду
-## npm install
-## npm start
+Test auth+chat from firebase
